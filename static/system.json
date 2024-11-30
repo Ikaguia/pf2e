@@ -5,8 +5,8 @@
     "version": "6.9.0",
     "license": "./LICENSE",
     "compatibility": {
-        "minimum": "12.328",
-        "verified": "12.331",
+        "minimum": "13.333",
+        "verified": "13.333",
         "maximum": "13"
     },
     "authors": [
